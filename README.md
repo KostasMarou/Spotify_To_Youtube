@@ -38,11 +38,12 @@ Authenticating with YouTube...
 Authentication successful!
 
 Creating YouTube playlist...
-Playlist 'Spotify Favorites' created successfully with ID: PL12345abcde.
+Playlist 'Spotify Favorites' created successfully with ID: PLCO4.
 
 Adding songs to playlist...
-Added: Valhalla Calling
-Added: Blinding Lights
-Added: Imagine
+Added video ID LGCKhg to playlist ID PLCO4
+Added video ID GrD3 to playlist ID PLCO4Q
+Added video ID lL2Zw to playlist ID PLCO4Q
 
-Done! Your YouTube playlist is ready.
+Playlist 'Spotify Favorites' created successfully!
+Check your YouTube account to view the playlist.
